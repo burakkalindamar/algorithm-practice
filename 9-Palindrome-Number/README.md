@@ -1,7 +1,4 @@
 
-<title>Palindrome Number</title>
-
-
 <h2>Palindrome Number</h2>
 <p><strong>Difficulty:</strong> Easy</p>
 <p><strong>Topics:</strong> Math</p>
